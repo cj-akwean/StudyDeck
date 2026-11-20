@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">StudyDeck</string>
+    <string name="app_tagline">Know what is due. Do what matters.</string>
+
+    <!-- About screen: replace these with your own details before submitting. -->
+    <string name="developer_name">Your Name</string>
+    <string name="developer_course">Mobile Application Development</string>
+    <string name="developer_school">Your School</string>
+    <string name="developer_instructor">Your Instructor</string>
+    <string name="developer_contact">you@example.com</string>
+
+    <string name="notification_channel_name">Task reminders</string>
+    <string name="notification_channel_description">Reminders for upcoming task deadlines</string>
+    <string name="notification_permission_rationale">Allow notifications so StudyDeck can remind you before a deadline.</string>
+</resources>

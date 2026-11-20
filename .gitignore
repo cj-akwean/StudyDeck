@@ -1,0 +1,29 @@
+# Gradle
+.gradle/
+build/
+captures/
+
+# Android / Kotlin build intermediates
+.cxx/
+.externalNativeBuild/
+.kotlin/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+
+# Local machine paths (Android SDK location)
+local.properties
+
+# AI / tooling scratch
+.opencode/
+
+# Planning documents
+docs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Crash and profiling dumps
+*.hprof
